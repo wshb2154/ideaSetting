@@ -1,13 +1,26 @@
 <application>
   <component name="JFormDesigner">
-    <entry key="lookandfeel.idea" value="com.intellij.ide.ui.laf.IntelliJLaf" />
+    <entry key="lookandfeel.idea" value="com.sun.java.swing.plaf.windows.WindowsLookAndFeel" />
     <entry key="license.filechooser.lastdirpath" value="C:\Users\WA\.IntelliJIdea2019.2\config\plugins\JFormDesigner\lib" />
     <entry key="license.filechooser.size" value="619, 326" />
+    <entry key="updates.lastcheckedversion" value="7.0.2.4.305" />
+    <entry key="updates.lastchecked" value="1593410180535" />
+    <entry key="run.autoclose" value="true" />
     <node name="designer">
       <entry key="newcontainer.layoutmanager" value="net.miginfocom.swing.MigLayout" />
       <entry key="newform.superclass.history1" value="javax.swing.JPanel" />
-      <entry key="newform.superclass" value="javax.swing.JPanel" />
+      <entry key="newform.superclass" value="javax.swing.JFrame" />
       <entry key="newform.toolkit" value="Swing" />
+      <entry key="newform.superclass.history2" value="javax.swing.JFrame" />
+      <entry key="newform.buttonbar" value="ok cancel" />
+      <entry key="newform.i18n.enabled" value="true" />
+      <entry key="newform.i18n.bundlename" value="form1" />
+      <entry key="newform.i18n.noprefix" value="true" />
+      <entry key="properties.expanded.codegen" value="true" />
+      <node name="forms">
+        <entry key="selection-1212725198" value="dialogPane" />
+        <entry key="paletteexpanded-1051550689" value="components,containers,windows,jgoodies,binding,custom" />
+      </node>
     </node>
   </component>
 </application>
