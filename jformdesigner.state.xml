@@ -20,7 +20,8 @@
         <entry key="selection-1212725198" value="dialogPane" />
         <entry key="paletteexpanded-1051550689" value="components,containers,windows,jgoodies,binding,custom" />
         <entry key="selection-1051550689" value="window1" />
-        <entry key="paletteexpanded-244662120" value="components,containers,windows" />
+        <entry key="paletteexpanded-244662120" value="components,containers,windows,menus,jgoodies,binding,custom" />
+        <entry key="selection-244662120" value="checkBox1" />
       </node>
     </node>
   </component>
