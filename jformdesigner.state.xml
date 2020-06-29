@@ -7,19 +7,20 @@
     <entry key="updates.lastchecked" value="1593410180535" />
     <entry key="run.autoclose" value="true" />
     <node name="designer">
-      <entry key="newcontainer.layoutmanager" value="net.miginfocom.swing.MigLayout" />
+      <entry key="newcontainer.layoutmanager" value="info.clearthought.layout.TableLayout" />
       <entry key="newform.superclass.history1" value="javax.swing.JPanel" />
       <entry key="newform.superclass" value="javax.swing.JFrame" />
       <entry key="newform.toolkit" value="Swing" />
       <entry key="newform.superclass.history2" value="javax.swing.JFrame" />
-      <entry key="newform.buttonbar" value="ok cancel" />
-      <entry key="newform.i18n.enabled" value="true" />
+      <entry key="newform.buttonbar" value="ok" />
       <entry key="newform.i18n.bundlename" value="form1" />
       <entry key="newform.i18n.noprefix" value="true" />
       <entry key="properties.expanded.codegen" value="true" />
       <node name="forms">
         <entry key="selection-1212725198" value="dialogPane" />
         <entry key="paletteexpanded-1051550689" value="components,containers,windows,jgoodies,binding,custom" />
+        <entry key="selection-1051550689" value="window1" />
+        <entry key="paletteexpanded-244662120" value="components,containers,windows" />
       </node>
     </node>
   </component>
