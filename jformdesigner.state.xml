@@ -7,7 +7,7 @@
     <entry key="updates.lastchecked" value="1593997817606" />
     <entry key="run.autoclose" value="true" />
     <node name="designer">
-      <entry key="newcontainer.layoutmanager" value="java.awt.FlowLayout" />
+      <entry key="newcontainer.layoutmanager" value="org.jdesktop.layout.GroupLayout" />
       <entry key="newform.superclass.history1" value="javax.swing.JPanel" />
       <entry key="newform.superclass" value="javax.swing.JFrame" />
       <entry key="newform.toolkit" value="Swing" />
@@ -15,6 +15,9 @@
       <entry key="newform.buttonbar" value="ok" />
       <entry key="newform.i18n.bundlename" value="form1" />
       <entry key="newform.i18n.noprefix" value="true" />
+      <entry key="properties.expanded.codegen" value="true" />
+      <entry key="properties.expanded.events" value="true" />
+      <entry key="properties.expanded.bindings" value="true" />
       <node name="forms">
         <entry key="selection-1212725198" value="dialogPane" />
         <entry key="paletteexpanded-1051550689" value="components,containers,windows,jgoodies,binding,custom" />
@@ -22,6 +25,8 @@
         <entry key="paletteexpanded-244662120" value="components,containers,windows,menus,jgoodies,binding,custom" />
         <entry key="selection-244662120" value="panel1,panel2" />
         <entry key="selection455143442" value="contentPanel" />
+        <entry key="paletteexpanded454219921" value="components,containers" />
+        <entry key="selection454219921" value="button2" />
       </node>
     </node>
   </component>
