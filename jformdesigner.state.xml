@@ -7,7 +7,7 @@
     <entry key="updates.lastchecked" value="1593997817606" />
     <entry key="run.autoclose" value="true" />
     <node name="designer">
-      <entry key="newcontainer.layoutmanager" value="info.clearthought.layout.TableLayout" />
+      <entry key="newcontainer.layoutmanager" value="java.awt.FlowLayout" />
       <entry key="newform.superclass.history1" value="javax.swing.JPanel" />
       <entry key="newform.superclass" value="javax.swing.JFrame" />
       <entry key="newform.toolkit" value="Swing" />
@@ -21,7 +21,7 @@
         <entry key="paletteexpanded-1051550689" value="components,containers,windows,jgoodies,binding,custom" />
         <entry key="selection-1051550689" value="window1" />
         <entry key="paletteexpanded-244662120" value="components,containers,windows,menus,jgoodies,binding,custom" />
-        <entry key="selection-244662120" value="checkBox1" />
+        <entry key="selection-244662120" value="panel2" />
       </node>
     </node>
   </component>
