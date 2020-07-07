@@ -18,6 +18,7 @@
       <entry key="chooser.beanclass.history1" value="javax.swing.plaf.FileChooserUI" />
       <entry key="chooser.beanclass.history2" value="javax.swing.JFileChooser" />
       <entry key="chooser.beanclass.history3" value="com.example.component.CFileChooser" />
+      <entry key="properties.expanded.constraints" value="false" />
       <node name="forms">
         <entry key="selection-1212725198" value="dialogPane" />
         <entry key="paletteexpanded-1051550689" value="components,containers,windows,jgoodies,binding,custom" />
