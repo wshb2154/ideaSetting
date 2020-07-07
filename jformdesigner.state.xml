@@ -24,12 +24,12 @@
         <entry key="selection-1051550689" value="window1" />
         <entry key="paletteexpanded-244662120" value="components,containers,windows,menus,jgoodies,binding,custom" />
         <entry key="selection-244662120" value="panel1,panel2" />
-        <entry key="paletteexpanded454219921" value="components,containers,windows,menus,jgoodies,binding,custom" />
         <entry key="selection-100779340" value="button1" />
         <entry key="paletteexpanded-100779340" value="components,windows" />
         <entry key="paletteexpanded455143442" value="components,containers" />
         <entry key="selection455143442" value="tabbedPane1" />
-        <entry key="selection454219921" value="tabbedPane1" />
+        <entry key="paletteexpanded454219921" value="components,containers,custom" />
+        <entry key="selection454219921" value="table1" />
       </node>
     </node>
   </component>
