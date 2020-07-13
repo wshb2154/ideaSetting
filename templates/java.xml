@@ -20,7 +20,7 @@
       <option name="JAVA_COMMENT" value="true" />
     </context>
   </template>
-  <template name="gengxin" value="&lt;span style='color:red'&gt;（更新$data$ $time$）&lt;/span&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="gengxin" value="&lt;span style='color:red'&gt;（更新$data$ $time$）&lt;/span&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="data" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <context>
