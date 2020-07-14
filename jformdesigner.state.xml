@@ -18,10 +18,10 @@
       <entry key="chooser.beanclass.history1" value="javax.swing.plaf.FileChooserUI" />
       <entry key="chooser.beanclass.history2" value="javax.swing.JFileChooser" />
       <entry key="chooser.beanclass.history3" value="com.example.component.CFileChooser" />
-      <entry key="properties.expanded.constraints" value="false" />
       <entry key="stringeditor.size" value="676, 242" />
       <entry key="properties.expanded.events" value="true" />
-      <entry key="properties.expanded.category.readonly" value="true" />
+      <entry key="properties.expanded.category.properties" value="false" />
+      <entry key="properties.expanded.constraints" value="false" />
       <node name="forms">
         <entry key="selection-1212725198" value="dialogPane" />
         <entry key="paletteexpanded-1051550689" value="components,containers,windows,jgoodies,binding,custom" />
@@ -32,8 +32,8 @@
         <entry key="paletteexpanded-100779340" value="components,windows" />
         <entry key="paletteexpanded455143442" value="components,containers" />
         <entry key="selection455143442" value="tabbedPane1" />
-        <entry key="paletteexpanded454219921" value="components,containers,custom" />
-        <entry key="selection454219921" value="table2" />
+        <entry key="paletteexpanded454219921" value="components,containers" />
+        <entry key="selection454219921" value="button11" />
       </node>
     </node>
   </component>
