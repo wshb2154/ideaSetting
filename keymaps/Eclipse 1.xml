@@ -58,11 +58,16 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
   <action id="ToggleDistractionFreeMode">
@@ -74,6 +79,7 @@
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
+  <action id="UpdateRunningApplication" />
   <action id="ViewSource" />
   <action id="context.save" />
   <action id="tasks.switch" />
