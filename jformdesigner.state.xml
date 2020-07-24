@@ -19,8 +19,10 @@
       <entry key="chooser.beanclass.history2" value="javax.swing.JFileChooser" />
       <entry key="chooser.beanclass.history3" value="com.example.component.CFileChooser" />
       <entry key="stringeditor.size" value="676, 242" />
-      <entry key="properties.expanded.events" value="true" />
       <entry key="properties.expanded.constraints" value="false" />
+      <entry key="properties.expanded.events" value="true" />
+      <entry key="properties.expanded.class" value="true" />
+      <entry key="codeditor.size" value="461, 466" />
       <node name="forms">
         <entry key="selection-1212725198" value="dialogPane" />
         <entry key="paletteexpanded-1051550689" value="components,containers,windows,jgoodies,binding,custom" />
@@ -30,7 +32,7 @@
         <entry key="selection-100779340" value="button1" />
         <entry key="paletteexpanded-100779340" value="components,windows" />
         <entry key="paletteexpanded455143442" value="components,containers" />
-        <entry key="paletteexpanded454219921" value="components,containers" />
+        <entry key="paletteexpanded454219921" value="components,windows,menus,jgoodies,binding,custom" />
         <entry key="selection455143442" value="tabbedPane1" />
         <entry key="selection454219921" value="tabbedPane1" />
       </node>
