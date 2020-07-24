@@ -7,7 +7,7 @@
     <entry key="updates.lastchecked" value="1595207572659" />
     <entry key="run.autoclose" value="true" />
     <node name="designer">
-      <entry key="newcontainer.layoutmanager" value="java.awt.FlowLayout" />
+      <entry key="newcontainer.layoutmanager" value="net.miginfocom.swing.MigLayout" />
       <entry key="newform.superclass.history1" value="javax.swing.JPanel" />
       <entry key="newform.superclass" value="javax.swing.JFrame" />
       <entry key="newform.toolkit" value="Swing" />
@@ -34,6 +34,7 @@
         <entry key="paletteexpanded455143442" value="components,containers" />
         <entry key="paletteexpanded454219921" value="components,containers,windows,menus,jgoodies,binding,custom" />
         <entry key="selection455143442" value="tabbedPane1" />
+        <entry key="selection454219921" value="tabbedPane1" />
       </node>
     </node>
   </component>
