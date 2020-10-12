@@ -19,6 +19,7 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="CompileDirty" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
   <action id="Console.Jpa.GenerateSql" />
@@ -55,6 +56,9 @@
   <action id="KotlinShellExecute" />
   <action id="MainMenu">
     <keyboard-shortcut first-keystroke="shift ctrl alt 9" />
+  </action>
+  <action id="MakeModule">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift alt t" />
