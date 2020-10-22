@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="项目 'hqrfid-api'" />
-    <option name="defaultScopeName" value="项目 'hqrfid-api'" />
-    <option name="SEARCH_SCOPE" value="项目 'hqrfid-api'" />
+    <option name="customScope" value="目录 '...\hqrfid-core\hqrfid-core-bean [hqrfid-core-bean]'" />
+    <option name="defaultScopeName" value="目录 '...\hqrfid-core\hqrfid-core-bean [hqrfid-core-bean]'" />
+    <option name="SEARCH_SCOPE" value="目录 '...\hqrfid-core\hqrfid-core-bean [hqrfid-core-bean]'" />
   </component>
 </application>
