@@ -1,6 +1,6 @@
 <application>
   <component name="JFormDesigner">
-    <entry key="lookandfeel.idea" value="com.sun.java.swing.plaf.windows.WindowsLookAndFeel" />
+    <entry key="lookandfeel.idea" value="com.intellij.ide.ui.laf.IntelliJLaf" />
     <entry key="license.filechooser.lastdirpath" value="C:\Users\WA\.IntelliJIdea2019.2\config\plugins\JFormDesigner\lib" />
     <entry key="license.filechooser.size" value="619, 326" />
     <entry key="updates.lastcheckedversion" value="7.0.2.4.305" />
